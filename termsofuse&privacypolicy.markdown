@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 服务条款与隐私政策
-permalink: /privacypolicy/
+permalink: /termsofuse&privacypolicy/
 ---
 
 ### 欢迎您使用 XRecipes 软件及服务，以下内容请仔细阅读。
